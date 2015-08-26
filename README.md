@@ -1,0 +1,1 @@
+The Angularjs project is a user management which can show the detail information for the users and their director reporter. It's a good tool when leading a team of members.
